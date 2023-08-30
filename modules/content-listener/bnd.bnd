@@ -1,0 +1,8 @@
+Bundle-Name: content-listener
+Bundle-SymbolicName: com.liferay.sample.fbo.content.listener
+Bundle-Version: 1.0.0
+Import-Package:\
+	org.apache.avalon.framework.logger;resolution:=optional,\
+	org.apache.log;resolution:=optional,\
+	*
+	

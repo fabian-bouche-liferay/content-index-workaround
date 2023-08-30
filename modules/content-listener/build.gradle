@@ -1,0 +1,5 @@
+dependencies {
+	compileOnly group: "org.slf4j", name: "slf4j-api"
+	compileOnly group: "com.liferay.portal", name: "release.dxp.api"
+	compileInclude group: 'org.apache.httpcomponents', name: 'httpclient', version: '4.5'
+}
